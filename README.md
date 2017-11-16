@@ -1,6 +1,8 @@
 # CSC 242 Project 1 #
 Author: Nick Graham
 
+Any use of this code must be cited
+
 Compile:
 make game
 
